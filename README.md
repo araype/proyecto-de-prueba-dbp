@@ -26,8 +26,8 @@ En el proyecto final de este curso, nuestro equipo ha desarrollado un sistema de
 ## Estructura de la Presentación
 
 - **Nombre del Proyecto:** [Nombre del Proyecto]
-- **Integrantes:** [Nombre del Integrante 1], [Nombre del Integrante 2], [Nombre del Integrante 3], [Nombre del Integrante 4] (si corresponde)
-- **Introducción:** [Explicación clara del problema que aborda la aplicación, la necesidad de resolverlo y la solución propuesta a través del proyecto]
+- **Integrantes:** Aracely Ayala, Valeria Champac, Diego Requena, Samira Rincón
+- **Introducción:** [Explicación clara del problema que aborda la aplicación, la necesidad de resolverlo y la solución propuesta a través del proyecto]una app que permita registrar libremente a cualquier estudiante de utec que esté interesado en dictar clases de n curso en el que se sienta capaz de enseñar y q tmb a travez de ese medio tenga la posibilidad de vender sus apuntes, guias o proyectos.
 - **Demostración en Vivo:** [Descripción de la demostración en vivo de las principales funcionalidades de la aplicación]
 - **Explicación del Diseño:** [Explicación del diseño general de la solución y resalte de las partes más importantes del código implementado]
 - **Conclusiones y Aprendizajes:** [Enumeración de las conclusiones más importantes y su relación con los conceptos del curso]
