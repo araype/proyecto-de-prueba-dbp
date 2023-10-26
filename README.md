@@ -25,11 +25,11 @@ En el proyecto final de este curso, nuestro equipo ha desarrollado un sistema de
 
 ## Estructura de la Presentación
 
-- **Nombre del Proyecto:** [Nombre del Proyecto]
+- **Nombre del Proyecto:** Biquerito
 - **Integrantes:** Aracely Ayala, Valeria Champac, Diego Requena, Samira Rincón
-- **Introducción:** [Explicación clara del problema que aborda la aplicación, la necesidad de resolverlo y la solución propuesta a través del proyecto]una app que permita registrar libremente a cualquier estudiante de utec que esté interesado en dictar clases de n curso en el que se sienta capaz de enseñar y q tmb a travez de ese medio tenga la posibilidad de vender sus apuntes, guias o proyectos.
-- **Demostración en Vivo:** [Descripción de la demostración en vivo de las principales funcionalidades de la aplicación]
-- **Explicación del Diseño:** [Explicación del diseño general de la solución y resalte de las partes más importantes del código implementado]
+- **Introducción:** En la Universidad de Ingeniería y Tecnología (UTEC), muchos estudiantes tienen conocimientos y habilidades que pueden ser valiosas para sus compañeros. Sin embargo, no existe una plataforma centralizada que permita a estos estudiantes registrar libremente sus apuntes. Esto crea una falta de oportunidades para la colaboración estudiantil y la maximización del aprendizaje. Por esto, estamos implementando una página web donde aquellos que pueden subir sus anotaciones con fines de ayudar a otros estudiantes a comprender los temas con mayor facilidad.
+- **Demostración en Vivo:** [Descripción de la demostración en vivo de las principales funcionalidades de la aplicación] Link del video 
+- **Explicación del Diseño:** [Explicación del diseño general de la solución y resalte de las partes más importantes del código implementado] 
 - **Conclusiones y Aprendizajes:** [Enumeración de las conclusiones más importantes y su relación con los conceptos del curso]
 - **Preguntas:** [Respuestas a las posibles preguntas del jurado sobre el proyecto y su desarrollo]
 
