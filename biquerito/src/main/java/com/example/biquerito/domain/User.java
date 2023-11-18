@@ -28,6 +28,7 @@ public class User implements UserDetails {
     private Role role;
 
     private String habilitado;
+    private String notification;
 
     @OneToMany(mappedBy = "user")
     private List<Publication> publications;
@@ -117,4 +118,7 @@ public class User implements UserDetails {
         this.role = role;
     }
 
+    public Long getId() {
+        return null;
+    }
 }

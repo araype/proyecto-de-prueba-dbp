@@ -1,6 +1,7 @@
 package com.example.biquerito.domain;
 
 import jakarta.persistence.*;
+import java.util.List;
 
 @Entity
 @Table(name = "publications")
@@ -29,6 +30,9 @@ public class Publication {
     @Column(name = "file")
     private String file;
 
+    @OneToMany(mappedBy = "post", cascade = CascadeType.ALL)
+    private List<Notification> notifications;
+
     public Publication() {
     }
 
@@ -39,6 +43,8 @@ public class Publication {
         this.description = description;
         this.file = file;
     }
+
+    // Getters and setters for existing fields
 
     public Long getId() {
         return id;
@@ -86,5 +92,15 @@ public class Publication {
 
     public void setFile(String file) {
         this.file = file;
+    }
+
+    // Getters and setters for the new relationship
+
+    public List<Notification> getNotifications() {
+        return notifications;
+    }
+
+    public void setNotifications(List<Notification> notifications) {
+        this.notifications = notifications;
     }
 }

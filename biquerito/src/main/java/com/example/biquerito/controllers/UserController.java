@@ -24,8 +24,12 @@ public class UserController {
     @GetMapping()
     public ResponseEntity<List<User>> getAllUsers() {
         List<User> users = userRepository.findAll();
+        if (users.isEmpty()) {
+            return new ResponseEntity<>(HttpStatus.NO_CONTENT);
+        }
         return new ResponseEntity<>(users, HttpStatus.OK);
     }
+
 
     @PostMapping()
     public ResponseEntity<User> createUser(@RequestBody User user) {
