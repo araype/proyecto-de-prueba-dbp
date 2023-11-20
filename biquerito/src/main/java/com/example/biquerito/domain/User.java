@@ -119,6 +119,6 @@ public class User implements UserDetails {
     }
 
     public Long getId() {
-        return null;
+        return id;
     }
 }
